@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "vscode.json-language-features",
+		"editor.formatOnPaste": false,
+		"editor.formatOnType": false,
+		"editor.formatOnSave": true,
+		"editor.formatOnSaveMode": "file",
+		"files.autoSave": "onFocusChange",
+		"editor.insertSpaces": false,
+		"editor.tabSize": 2,
+		"[svelte]": {
+			"editor.defaultFormatter": "svelte.svelte-vscode"
+		},
+	},
+	"extensions": {
+		"recommendations": [
+			"svelte.svelte-vscode",
+			"ardenivanov.svelte-intellisense",
+			"fivethree.vscode-svelte-snippets",
+			"bradlc.vscode-tailwindcss",
+			"dbaeumer.vscode-eslint",
+			"ms-vscode.vscode-typescript-next",
+			"antfu.vite"
+		]
+	}
+}
