@@ -11,11 +11,31 @@ Provides a configured development environment based off of `svelte@latest` with 
 Scripts:
 
 ```powershell
-yarn install # install dependencies
-yarn dev # start dev server
-yarn build # build for production
-yarn test:unit # run unit tests
-yarn lint # run linter
-yarn format # format code
-yarn preview # preview production build
+# install dependencies
+npm install
+yarn install 
+
+# start dev server
+npm run dev
+yarn dev 
+
+# build for production
+npm run build
+yarn build 
+
+# run unit tests
+npm run test:unit
+yarn test:unit 
+
+# run linter
+npm run lint
+yarn lint 
+
+# format code
+npm run format
+yarn format 
+
+# preview production build
+npm run preview
+yarn preview 
 ```
