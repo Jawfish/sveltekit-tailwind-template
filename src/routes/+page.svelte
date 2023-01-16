@@ -17,7 +17,7 @@
 				<img
 					src={welcome_fallback}
 					alt="Welcome"
-					class="absolute top-0 block h-full w-full"
+					class="top-0 block h-full w-full"
 				/>
 			</picture>
 		</span>
